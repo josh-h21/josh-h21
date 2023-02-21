@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-mk
+🌱 I’m currently learning data science including data visualisation and data analysis, supervised and unsupervised machine learning using Python, and the use of SQL
+The Projects repository contains various task projects throughout learning data science
